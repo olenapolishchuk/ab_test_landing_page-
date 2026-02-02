@@ -1,4 +1,4 @@
-# ab_test_landing_page-
+# ab_test_landing_page
 This project presents an analysis of an A/B experiment with a landing page, with a particular focus on experimental validity, statistical accuracy, and business decision-making.  
 
 The goal is to properly assess whether the new landing page provides a **statistically and practically significant improvement**
